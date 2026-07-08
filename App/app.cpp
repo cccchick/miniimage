@@ -18,7 +18,7 @@
 #include "searcher.h"
 
 int main(int argc, char *argv[]) {
-    // 控制台使用 UTF-8 编码，防止中文输出乱码
+    // 控制台使用 UTF-8 编码，防止乱码
     SetConsoleOutputCP(CP_UTF8);
 
     QApplication app(argc, argv);
