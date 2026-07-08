@@ -79,8 +79,6 @@ MiniImageRetrieval/
 ├── common.h                      # 公共数据结构（ImageInfo / ImageDB / SearchResult）
 ├── CMakeLists.txt                # 根 CMake 配置
 ├── test_images/                  # 示例图片（动物、风景、人物、食物等）
-├── build/                        # CMake 构建生成目录（运行前需先编译）
-│   └── App/App.exe               # 编译好的可执行文件
 ├── README.md                     # 本文件
 ├── CHANGELOG.md                  # 版本更新记录
 ├── LICENSE                       # 开源许可证
